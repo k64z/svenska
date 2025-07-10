@@ -26,7 +26,6 @@ känna,to know,a person/place
 hämta,pick up/fetch
 skynda sig,hurry up
 att städa,to clean
-att somna,to fall asleep
 sen,then/late
 ge,give
 fan,damn
@@ -46,7 +45,6 @@ köra,to drive
 ens,even
 enda,only
 hitta,find
-kvar,remaining
 ingenting,nothing
 snart,soon
 väldigt,very
@@ -71,17 +69,13 @@ grädde,cream
 mjöl,flour
 läsk,soda (drink)
 hav,sea/ocean
-älv,river
 å,stream/small river
 bäck,brook/creek
 strand,beach
 kust,coast
-vik,bay
 skärgård,archipelago
 fjäll,mountain/fell
-tall,pine tree
 gran,spruce tree
-björk,birch tree
 gräs,grass
 himmel,sky
 avstånd,distance
@@ -114,3 +108,5 @@ dålig,bad
 riktig,real
 hemlig,secret
 nyligen,recently
+hittills,so far
+fungera,to function
