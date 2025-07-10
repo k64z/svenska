@@ -1,0 +1,83 @@
+## SUBJUNCTIVE WITH "OM" CLAUSES
+Rule: Present tense for real conditions, past forms for hypothetical
+Ex: Om det regnar, stannar jag hemma (real). Om jag vore rik, skulle jag resa (hypothetical)
+Notes: "vore" (were), "hade" (had) for unreal situations
+
+## PRESENT PARTICIPLE
+Rule: infinitive + -nde
+Ex: springande, kommande
+Notes: ongoing action, often translated to "-ing" in English
+
+## PAST PARTICIPLE
+Rule: group 1: -ad, group 2: -d, group 3: -en
+Ex: köpt -> köpad, bott -> bodd, skriva -> skriven
+Notes: describes completed actions, used in passive constructions
+
+## PASSIVE VOICE WITH -S
+Rule: Many verbs form passive by adding -s to the infinitive
+Ex: kalla -> kallas (is called), se -> ses/syns (is seen/appears)
+Notes: Common alternative to "bli/vara" + past participle
+
+## IMPERATIVE MOOD
+Rule: Remove -a ending from infinitive for most verbs
+Ex: köpa -> köp!, stanna -> stanna!, sälja -> sälj!
+Notes: Used for commands, advice, instructions
+
+## DEFINITE ARTICLES
+Rule: -en words -> -en, -ett words -> -et, plural -> -na-/-en
+Ex: hus -> huset, bil -> bilen, bilar -> bilarna
+Notes: some irregulars (man -> mannen, fot -> foten)
+
+## WORD ORDER (V2)
+Rule: verb always 2nd position in main clauses
+Ex: Igår åkte jag hem. Jag åkte hem igår
+
+## PRESENT PERFECT
+Rule: har + supine (-t/-it/-tt ending)
+Ex: har ätit, har gjort, har bott
+Notes: supine != past participle
+
+## ADJECTIVE AGREEMENT
+Rule [indefinite]: en-words +∅, ett-words +-t, plural +-a
+Rule [definite]: always + -a
+Ex: en stor bil, ett stort hus, stora bilar, den stora bilen
+
+## POSSESSIVES
+Rule: min/mitt/mina, din/ditt/dina, sin/sitt/sina (reflexive)
+Ex: min bil, mitt hus, mina böcker
+Notes: sin/sitt/sina = subject owns, not someone else
+
+## PAST TENSE GROUPS
+Rule: Group 1: + -ade, Group 2: + -de, Group 3: vowel change 
+Ex: prata -> pratade, bo -> bodde, komma -> kom
+Notes: Group 4 irregulars exist (gick, åt)
+
+## MODAL VERBS
+Rule: modal + infinitive (no att)
+Ex: kan simma, vill äta, ska åka
+Notes: position like English modals
+
+## REFLEXIVE VERBS
+Rule: verb + sig/mig/dig/oss/er depending on subject
+Ex: jag tvättar mig, han rakar sig, vi träffas
+Note: some verbs always reflexive (heter, känss)
+
+## TIME EXPRESSIONS
+Rule: tillbringa tid = spend time, spendera pengar = spend money
+Ex: tillbringa helgen hemma, spendera mycket på mat
+
+## CONDITIONAL MOOD
+Rule: skulle/borde + infinitive (hypothetical situations)
+Ex: Jag skulle köpa det om jag hade pengar
+Notes: skulle = would, borde = should/ought to
+
+## CONDITIONAL & SUBJUNCTIVE
+Rule: skulle + infinitive (would), vore (were), present for real conditions
+Ex: Om jag vore rik, skulle jag resa. Om det regnar, stannar vi hemma
+Notes: "hade" + supine for past conditional (Om jag hade vetat...)
+
+## "DET SER UT ATT" CONSTRUCTION
+Rule: det ser ut + att + infinitive (predictions about future)
+Ex: Det ser ut att regna, det ser ut att bli kallt
+Notes: "ser ut" = looks/appears, often used with "bli" for future states
+
